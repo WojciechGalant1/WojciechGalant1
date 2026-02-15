@@ -39,5 +39,4 @@ User roles, order management, reporting system, Docker environment.
 
 ## 📫 Contact
 
-📧 wojciech.galant7@gmail.com  
 🔗 LinkedIn: linkedin.com/in/wgalant
