@@ -1,42 +1,21 @@
-# Hi, I'm Wojciech 👋
 
-Full-stack developer focused on building practical web applications and backend systems.  
-Currently pursuing MSc in Computer Science (Software Development and Web Services specialization).
+# Cześć, jestem Wojciech! 👋
 
-## 🚀 What I Do
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Jestem+pasjonatem+technologii;Uczę+się+tworzyć+świat+cyfrowy)](https://git.io/typing-svg)
 
-- Backend development (PHP, Laravel, Java, REST APIs)
-- Frontend development (JavaScript, React)
-- Relational databases (MySQL, PostgreSQL)
-- Dockerized web applications
-- System architecture & clean code practices
-- Exploring AI-powered application integration (LLMs)
+## O mnie
+Jestem [np. studentem informatyki / self-taught developerem], który z pasją podchodzi do tworzenia [np. nowoczesnych aplikacji webowych]. Moją przygodę z kodowaniem zacząłem [np. rok temu], a najbardziej fascynuje mnie [np. ekosystem JavaScript i budowanie interfejsów użytkownika]. Nieustannie poszerzam swoją wiedzę, eksperymentując z nowymi technologiami i pracując nad własnymi projektami.
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<!-- Dodaj tutaj inne ikony, których się uczysz, np. React, Python, Git -->
 
-**Backend:** PHP, Laravel, Java, REST  
-**Frontend:** JavaScript (ES6), React  
-**Databases:** MySQL, PostgreSQL  
-**DevOps:** Docker, Git  
-**Other:** Business Intelligence basics, system security fundamentals
+## 📈 Statystyki GitHub
+![Twoje statystyki GitHub](https://github-readme-stats.vercel.app/api?username=WojciechGalant1&show_icons=true&theme=radical)
+![Najczęściej używane języki](https://github-readme-stats.vercel.app/api/top-langs/?username=WojciechGalant1&layout=compact&theme=radical)
 
-## 📌 Featured Projects
-
-### 🧥 Workwear Management System
-Full-stack web application designed and deployed during internship.  
-Custom MVC architecture, role-based authentication, barcode integration, inventory tracking.
-
-### 🍽 Restaurant Management System
-Team-based Laravel project built in Agile methodology.  
-User roles, order management, reporting system, Docker environment.
-
-## 🎯 Current Focus
-
-- Writing scalable backend systems
-- Improving system architecture skills
-- Building AI-enhanced web applications
-- Strengthening PostgreSQL & cloud knowledge
-
-## 📫 Contact
-
-🔗 LinkedIn: linkedin.com/in/wgalant
+## 📫 Jak ze mną się skontaktować:
+- Email: [twój.email@example.com](mailto:twój.email@example.com)
+- LinkedIn: [Link do Twojego profilu LinkedIn](https://www.linkedin.com/in/twoj-profil/)
