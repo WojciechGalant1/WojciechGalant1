@@ -22,11 +22,11 @@ Currently pursuing MSc in Computer Science (Software Development and Web Service
 
 ## Featured Projects
 
-### 🧥 <a href="https://github.com/WojciechGalant1/Workwear-Management" target="_blank">Workwear Management System</a>
+### <a href="https://github.com/WojciechGalant1/Workwear-Management" target="_blank">Workwear Management System</a>
 Full-stack web application designed and deployed during internship.  
 Custom MVC architecture, role-based authentication, barcode integration, inventory tracking.
 
-### 🍽 <a href="https://github.com/WojciechGalant1/Restaurant-management" target="_blank">Restaurant Management System</a>
+### <a href="https://github.com/WojciechGalant1/Restaurant-management" target="_blank">Restaurant Management System</a>
 Team-based Laravel project built in Agile methodology.  
 User roles, order management, reporting system, Docker environment.
 
