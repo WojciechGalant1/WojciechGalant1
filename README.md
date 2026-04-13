@@ -9,7 +9,7 @@ Currently pursuing MSc in Computer Science (Software Development and Web Service
 - Frontend development (JavaScript, React)
 - Relational databases (MySQL, PostgreSQL)
 - Dockerized web applications
-- System architecture & clean code practices
+- System architecture 
 - Exploring AI-powered application integration (LLMs)
 
 ## Tech Stack
