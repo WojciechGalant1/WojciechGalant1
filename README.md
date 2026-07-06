@@ -1,31 +1,34 @@
 # Hi, I'm Wojciech 
 
-Full-stack developer focused on building practical web applications and backend systems.  
-Currently pursuing MSc in Computer Science (Software Development and Web Services specialization).
+Full-stack developer with commercial experience building business web applications and modern backend systems.
+Currently pursuing an M.Sc. in Computer Science while developing projects with Java, Spring Boot, React, Laravel, FastAPI, Docker and Kubernetes.
+Interested in software architecture, cloud-native applications, distributed systems and AI-assisted software.
+
 
 ## What I Do
 
-- Backend development (PHP, Laravel, Java, REST APIs)
+- Business web applications
 - Frontend development (JavaScript, React)
-- Relational databases (MySQL, PostgreSQL)
-- Dockerized web applications
-- System architecture 
+- REST APIs
+- Real-time applications
+- Scalable software architecture
 - Exploring AI-powered application integration (LLMs)
 
 ## Tech Stack
 
-**Backend:** PHP, Laravel, Java, REST  
+**Backend:** Java • Spring Boot • PHP • Laravel • FastAPI • NestJS • REST • WebSocket
 **Frontend:** JavaScript (ES6), React  
 **Databases:** MySQL, PostgreSQL  
-**DevOps:** Docker, Git  
+**DevOps:** Docker, Kubernetes, Helm, Git  
+**Testing:** JUnit, PHPUnit, Pytest  
 **Other:** Business Intelligence basics, system security fundamentals
 
 ## Current Focus
 
-- Writing scalable backend systems
-- Improving system architecture skills
-- Building AI-enhanced web applications
-- Strengthening PostgreSQL & cloud knowledge
+- Building cloud-native backend applications
+- Improving Kubernetes and DevOps practices
+- Exploring AI integrations with LLMs
+- Learning distributed systems
 
 ## Contact
 
